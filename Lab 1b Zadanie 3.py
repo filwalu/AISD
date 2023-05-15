@@ -9,6 +9,6 @@ def sortowanie(liczby):
     return liczby
 
 # przykladowe wywolanie funkcji
-liczby = [1, 2, 3, 11, 21, 111, 231]
+liczby = [1, 2, 3, 211, 321, 111, 231]
 posortowane = sortowanie(liczby)
 print(posortowane)
